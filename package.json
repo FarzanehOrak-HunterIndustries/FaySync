@@ -1,6 +1,6 @@
 {
   "name": "faysync",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "# How to use it:     # In the command line type 'npm install faysync --save'     # Require the module in your project and use it exactly how you use async.waterfall",
   "main": "index.js",
   "scripts": {
