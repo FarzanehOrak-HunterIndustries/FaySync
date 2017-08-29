@@ -8,4 +8,4 @@
 
 # How it works:
     # faysync wraps the async.waterfall and decorates each function in the waterfall. 
-    # It prints the functions that have been executed and callbacks which have been done. 
+    # It prints the functions that have been executed and callbacks which have been called. 
